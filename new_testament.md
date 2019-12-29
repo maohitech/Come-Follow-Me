@@ -1,6 +1,8 @@
 # New Testament
 
 * [Revelation 1-11](#50)
+* [Christmas](#51)
+* [Revelation 12-22](#52)
 
 
 <h2 id="50">Revelation 1-11</h2>
@@ -19,5 +21,9 @@
 
 <h2 id="51">Christmas</h2>
 
+* Personal opinion: Santa Claus stole christmas
 
-<h2 id="52">Revelation 12-22<h2>
+
+<h2 id="52">Revelation 12-22</h2>
+
+* Overcoming the world is a big topic
