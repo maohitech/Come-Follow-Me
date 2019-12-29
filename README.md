@@ -5,6 +5,10 @@
 * [7 - 11](#elementary)
 * [12 - 18](#teen)
 
+* [Book of Mormon](#bom.md)
+* [New Testament](#new_testament.md)
+* [Old Testament](#old_testament.md)
+* [Perl of Great Price](#pgp.md)
 
 <h2 id="toddler">0 - 3 years old</h2>
 
