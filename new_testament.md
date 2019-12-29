@@ -27,3 +27,4 @@
 <h2 id="52">Revelation 12-22</h2>
 
 * Overcoming the world is a big topic
+* Addiction is an attack on our physical bodies
